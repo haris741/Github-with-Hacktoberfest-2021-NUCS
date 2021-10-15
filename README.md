@@ -1,6 +1,3 @@
-# Github-with-Hacktoberfest-2021-NUCS
-This is a practice repository for workshop github and hacktoberfest 2021
-
 Dear Participants,
 Thank you for participating in the event.
 To get the certificate of participation , create a pull request on the repository below:
